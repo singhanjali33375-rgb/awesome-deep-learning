@@ -1,0 +1,7 @@
+model:
+  epochs: 10
+  batch_size: 32
+
+training:
+  optimizer: adam
+  loss: sparse_categorical_crossentropy
