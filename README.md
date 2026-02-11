@@ -131,3 +131,7 @@ awesome-deep-learning/
 ├── README.md
 └── LICENSE
 
+
+👩‍💻 Author
+Anjali Singh
+B.Tech CSE | AI & DevOps Enthusiast
